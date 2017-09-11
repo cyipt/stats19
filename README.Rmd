@@ -2,6 +2,8 @@
 output: github_document
 ---
 
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/cyipt/stats19?branch=master&svg=true)](https://ci.appveyor.com/project/cyipt/stats19)
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r, echo = FALSE}
@@ -13,6 +15,7 @@ knitr::opts_chunk$set(
 ```
 
 # stats19
+
 
 The primary goal of stats19 is to enable access to the UK's geo-referenced database of road traffic casualties compiled by the police.
 See https://data.gov.uk/dataset/road-accidents-safety-data for further details.

@@ -1,0 +1,5 @@
+code,label
+0,Not foreign registered vehicle
+1,Foreign registered vehicle - left hand drive
+2,Foreign registered vehicle - right hand drive
+3,Foreign registered vehicle - two wheeler

@@ -1,0 +1,13 @@
+code,label
+0,Not a pedestrian
+1,Heading north
+2,Heading north east
+3,Heading east
+4,Heading south east
+5,Heading south
+6,Heading south west
+7,Heading west
+8,Heading north west
+9,Unknown
+10,Standing still
+-1,Data missing or out of range

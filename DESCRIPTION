@@ -1,8 +1,10 @@
 Package: stats19
 Title: Stats19 Tools
 Version: 0.1
-Authors@R: person("Malcolm", "Morgan", email = "m.morgan1@leeds.ac.uk", role = c("aut", "cre")),
-	   person("Robin", "Lovelace", email = "rob00x@gmail.com", role = c("aut", "cre"))
+Authors@R: c(
+  person("Malcolm", "Morgan", email = "m.morgan1@leeds.ac.uk", role = c("aut", "cre")),
+  person("Robin", "Lovelace", email = "rob00x@gmail.com", role = c("aut"))
+  )
 Description: Tools to help process and analysie the UK road collision data also known as Stats19.
 Depends: R (>= 3.4.1)
 License: GPL-3 + file LICENSE

@@ -28,12 +28,10 @@ You can install stats19 from github with:
 ```{r gh-installation, eval = FALSE}
 # install.packages("devtools")
 devtools::install_github("cyipt/stats19")
+library(stats19)
 ```
 
-<!-- ## Example -->
 
-<!-- This is a basic example which shows you how to solve a common problem: -->
-
-<!-- ```{r example} -->
-<!-- ## basic example code -->
-<!-- ``` -->
+```{r}
+stats19.download(year = 2016)
+```

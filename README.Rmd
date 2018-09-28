@@ -33,5 +33,7 @@ library(stats19)
 
 
 ```{r}
-stats19.download(year = 2016)
+ac <- read_stats19_ac()
+ca <- read_stats19_ca()
+ve <- read_stats19_ve()
 ```

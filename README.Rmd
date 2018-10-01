@@ -44,7 +44,9 @@ ac_sample1000 = ac[sample(nrow(ac), 1000), ]
 ```
 
 ```{r}
+class(ac_sample1000)
 plot(ac_sample1000$Longitude, ac_sample1000$Latitude)
+range(ac_sample1000$Date)
 ```
 
 
